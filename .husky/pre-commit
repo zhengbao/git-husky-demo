@@ -3,4 +3,4 @@
 
 echo hello pre commit
 # npm run test
-echo pre commit closed
+echo pre commit end
