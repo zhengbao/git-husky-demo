@@ -13,7 +13,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "echo ----- hi husky -----"
+      "pre-commit": "echo ------ hi husky ------"
     }
   },
   "keywords": [],
