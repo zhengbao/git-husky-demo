@@ -11,11 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/zhengbao/git-husky-demo.git"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "echo ------ hi husky ------"
-    }
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
