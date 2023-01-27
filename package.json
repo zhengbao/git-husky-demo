@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/zhengbao/git-husky-demo#readme",
   "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
     "husky": "^8.0.0"
   }
 }
