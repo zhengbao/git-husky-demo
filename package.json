@@ -1,0 +1,29 @@
+{
+  "name": "git-husky-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npx husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengbao/git-husky-demo.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo --- hi husky ----"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengbao/git-husky-demo/issues"
+  },
+  "homepage": "https://github.com/zhengbao/git-husky-demo#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
